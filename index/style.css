@@ -1,0 +1,97 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+  font-family: Georgia, 'Times New Roman', Times, serif; }
+
+.head {
+  border: 1px solid white;
+  background-color: white;
+  width: 1525px;
+  height: 40px;
+  padding: 12px; }
+  .head a {
+    text-decoration: none; }
+  .head ul {
+    display: flex;
+    list-style-type: none;
+    float: right; }
+  .head li {
+    padding: 10px; }
+
+.acces img {
+  position: relative;
+  width: 1525px; }
+
+.acces h1 {
+  position: absolute;
+  top: 100%;
+  left: 4%;
+  color: grey;
+  font-size: 38px; }
+
+.about {
+  border: 1px none;
+  position: relative; }
+  .about img {
+    position: absolute;
+    top: 7%;
+    left: 7%; }
+  .about h1 {
+    text-align: center;
+    margin-top: 7%;
+    margin-left: 37%;
+    font-size: 30px; }
+  .about h3 {
+    text-align: center;
+    margin-top: 7%;
+    margin-left: 37%; }
+  .about .parag {
+    position: absolute;
+    border: 1px none;
+    width: 600px;
+    height: 100px;
+    left: 50%; }
+  .about #prrr {
+    color: gray; }
+
+.main h1 {
+  margin-left: 35%;
+  font-weight: 300; }
+
+.main h2 {
+  font-weight: 300; }
+
+.main .menumm {
+  position: absolute;
+  margin-top: 50%;
+  left: 7%; }
+
+.main img {
+  position: absolute;
+  top: 10%;
+  left: 150%; }
+
+.main p {
+  color: gray; }
+
+.cont {
+  position: absolute;
+  margin-top: 120%;
+  left: 7%; }
+  .cont h1 {
+    font-weight: 300; }
+  .cont h2 {
+    font-weight: 300;
+    color: cornflowerblue; }
+  .cont input {
+    width: 1000px;
+    height: 70px;
+    border-style: none; }
+  .cont hr {
+    width: 1000px; }
+  .cont button {
+    padding: 7px;
+    width: 150px;
+    height: 30px;
+    font-size: 16px; }
